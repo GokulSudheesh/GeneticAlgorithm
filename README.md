@@ -2,7 +2,7 @@
 <img src="/ImageEncryption/images/meme.jpeg" width="430" height="295"><br>
 
 ### Crossover Operations
-In one point crossover, a random crossover point is selected, and the halves of the two parents are swapped to generate new off-springs.
+In one point crossover, a random crossover point is selected, and the halves of the two parents are swapped to generate new off-springs.<br>
 <img src="https://www.tutorialspoint.com/genetic_algorithms/images/one_point_crossover.jpg" width="600" height="137"><br>
 
 In uniform crossover, each bit is chosen from either parent with equal probability. Just like flipping a coin to decide whether a bit will be included in the offspring.<br>
