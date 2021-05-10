@@ -1,3 +1,4 @@
+This is an experimentation I dont even know if any of this makes sense.
 ### How it works?
 <img src="images/projectArchitecture.png" width="552" height="632"><br>
 
@@ -12,10 +13,8 @@ Image | Encrypted Image
 ------------ | -------------
 <img src="images/doggy.jpg" width="200" height="200"><br>Best fit key: 10100100…. up to 104 bits | <img src="images/doggy_Encryption.png" width="200" height="200"><br>SSIM: 0.01873409749010136
 <img src="images/flower.jpg" width="200" height="200"><br>Best fit key: 11110011 …. up to 104 bits  | <img src="images/flower_Encryption.png" width="200" height="200"><br>SSIM: 0.008188597751844228
-<img src="images/mona.jpg" width="200" height="200"><br>Best fit key: 11011110…. up to 104 bits | <img src="images/mona_Encryption.png" width="200" height="200"><br>SSIM:
-0.004979959162200745
-<img src="images/vic.jpg" width="200" height="200"><br>Best fit key: 01110100 …. up to 104 bits  | <img src="images/vic_Encryption.png" width="200" height="200"><br>SSIM:
-0.0159365348940872
+<img src="images/mona.jpg" width="200" height="200"><br>Best fit key: 11011110…. up to 104 bits | <img src="images/mona_Encryption.png" width="200" height="200"><br>SSIM:0.004979959162200745
+<img src="images/vic.jpg" width="200" height="200"><br>Best fit key: 01110100 …. up to 104 bits  | <img src="images/vic_Encryption.png" width="200" height="200"><br>SSIM:0.0159365348940872
 
 ### Issues
 The GA can successfully generate keys when the image size is small. However, if the image size is large, the key generation process can take a longer time depending on the computational power of the machine. This system can also be further modified by increasing the generations or population size keeping in mind the execution time for the same.
