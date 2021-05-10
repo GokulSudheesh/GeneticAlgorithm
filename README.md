@@ -15,6 +15,8 @@ In bit flip mutation one or more bits are selected, and their values are mutated
 ### Fitness Function
 The fitness function simply defined is a function which takes a candidate solution to the problem as input and produces as output how “fit” our how “good” the solution is with respect to the problem in consideration.
 
+### Flowchart
+<img src="/ImageEncryption/images/flowchart.jpeg" width="630" height="413"><br>
 ### Resources:
 https://www.geeksforgeeks.org/mutation-algorithms-for-string-manipulation-ga/
 https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_quick_guide.htm
