@@ -12,6 +12,9 @@ In uniform crossover, each bit is chosen from either parent with equal probabili
 In bit flip mutation one or more bits are selected, and their values are mutated i.e. we change 1s to 0s and vice versa.<br>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/Capture1-22-300x30.png" width="300" height="30"><br>
 
+### Fitness Function
+The fitness function simply defined is a function which takes a candidate solution to the problem as input and produces as output how “fit” our how “good” the solution is with respect to the problem in consideration.
+
 ### Resources:
 https://www.geeksforgeeks.org/mutation-algorithms-for-string-manipulation-ga/
 https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_quick_guide.htm
